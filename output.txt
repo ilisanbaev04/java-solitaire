@@ -1,0 +1,586 @@
+Action - Moved nine of Hearts from the pile to column 5
+XXX  6_S  1_H  2_C  |A_H|___|___|___|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX  XXX  XXX  XXX  XXX  
+1      Q_D  XXX  XXX  XXX  XXX  XXX  
+2           3_S  XXX  XXX  XXX  XXX  
+3                8_S  XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                          1_C  XXX  
+6                          9_H  8_C  
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the eight of Spades from column 3 to 5
+XXX  1_H  2_C  4_H  |A_H|___|___|___|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX  XXX  XXX  XXX  XXX  
+1      Q_D  XXX  XXX  XXX  XXX  XXX  
+2           3_S  A_D  XXX  XXX  XXX  
+3                     XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                          1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+----------------------------------------------------------------------------
+Action - Moved Jack of Spades from the pile to column 1
+XXX  J_H  9_S  Q_C  |A_H|___|___|___|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX  XXX  XXX  XXX  XXX  
+1      Q_D  XXX  XXX  XXX  XXX  XXX  
+2      J_S  3_S  A_D  XXX  XXX  XXX  
+3                     XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                          1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+----------------------------------------------------------------------------
+Action - Moved Ace of Diamonds to Foundation
+XXX  9_S  Q_C  3_D  |A_H|A_D|___|___|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX  XXX  XXX  XXX  XXX  
+1      Q_D  XXX  A_S  XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3                     XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                          1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+----------------------------------------------------------------------------
+Action - Moved Ace of Spades to Foundation
+XXX  9_S  Q_C  3_D  |A_H|A_D|A_S|___|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX  7_S  XXX  XXX  XXX  
+1      Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3                     XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                          1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the seven of Spades from column 3 to 0
+XXX  9_S  Q_C  3_D  |A_H|A_D|A_S|___|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3                     XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                          1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+----------------------------------------------------------------------------
+Action - Moved three of Diamonds from the pile to column 4
+XXX  J_H  9_S  Q_C  |A_H|A_D|A_S|___|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3                     XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+----------------------------------------------------------------------------
+Action - Moved ten of Diamonds from the pile to column 1
+XXX  J_H  9_S  Q_C  |A_H|A_D|A_S|___|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3      1_D            XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+----------------------------------------------------------------------------
+Action - Moved two of Hearts from the pile to column 2
+XXX  K_S  4_S  7_C  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3      1_D  2_H       XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+----------------------------------------------------------------------------
+Action - Moved seven of Diamonds from the pile to column 5
+     K_S  4_S  7_C  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3      1_D  2_H       XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+8                          7_D       
+----------------------------------------------------------------------------
+Action - Moved six of Spades from the pile to column 5
+XXX  Q_S            |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3      1_D  2_H       XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+8                          7_D       
+9                          6_S       
+----------------------------------------------------------------------------
+Action - Moved two of Clubs from the pile to column 4
+XXX  Q_S  1_H       |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3      1_D  2_H       XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                     2_C  9_H  8_C  
+7                          8_S       
+8                          7_D       
+9                          6_S       
+----------------------------------------------------------------------------
+Action - Moved six of Hearts from the pile to column 0
+XXX  Q_S  1_H  4_H  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2 6_H  J_S  3_S       XXX  XXX  XXX  
+3      1_D  2_H       XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                     2_C  9_H  8_C  
+7                          8_S       
+8                          7_D       
+9                          6_S       
+----------------------------------------------------------------------------
+Action - Moved five of Spades from the pile to column 0
+XXX  Q_S  1_H  4_H  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2 6_H  J_S  3_S       XXX  XXX  XXX  
+3 5_S  1_D  2_H       XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                     2_C  9_H  8_C  
+7                          8_S       
+8                          7_D       
+9                          6_S       
+----------------------------------------------------------------------------
+Action - Moved five of Hearts from the pile to column 5
+XXX  Q_S  1_H  4_H  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2 6_H  J_S  3_S       XXX  XXX  XXX  
+3 5_S  1_D  2_H       XXX  XXX  XXX  
+4                     4_C  XXX  XXX  
+5                     3_D  1_C  XXX  
+6                     2_C  9_H  8_C  
+7                          8_S       
+8                          7_D       
+9                          6_S       
+10                          5_H       
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the four of Clubs from column 4 to 5
+XXX  1_H  4_H  2_S  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2 6_H  J_S  3_S       XXX  XXX  XXX  
+3 5_S  1_D  2_H       8_H  XXX  XXX  
+4                          XXX  XXX  
+5                          1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+8                          7_D       
+9                          6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+13                          2_C       
+----------------------------------------------------------------------------
+Action - Moved nine of Spades from the pile to column 1
+XXX  4_H  2_S  J_H  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0 8_D  XXX  XXX       XXX  XXX  XXX  
+1 7_S  Q_D  XXX       XXX  XXX  XXX  
+2 6_H  J_S  3_S       XXX  XXX  XXX  
+3 5_S  1_D  2_H       8_H  XXX  XXX  
+4      9_S                 XXX  XXX  
+5                          1_C  XXX  
+6                          9_H  8_C  
+7                          8_S       
+8                          7_D       
+9                          6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+13                          2_C       
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the eight of Diamonds from column 0 to 1
+XXX  2_S  J_H  Q_C  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3      1_D  2_H       8_H  XXX  XXX  
+4      9_S                 XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9                          6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+13                          2_C       
+----------------------------------------------------------------------------
+Action - Moved seven of Clubs from the pile to column 4
+     K_C  K_S  4_S  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3      1_D  2_H       8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9                          6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+13                          2_C       
+----------------------------------------------------------------------------
+Action - Moved four of Hearts from the pile to column 1
+XXX  Q_S  1_H       |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  XXX       XXX  XXX  XXX  
+2      J_S  3_S       XXX  XXX  XXX  
+3      1_D  2_H       8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9      4_H                 6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+13                          2_C       
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the three of Spades from column 2 to 1
+XXX  Q_S  1_H  2_S  |A_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  5_C       XXX  XXX  XXX  
+2      J_S            XXX  XXX  XXX  
+3      1_D            8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9      4_H                 6_S       
+10      3_S                 5_H       
+11      2_H                 4_C       
+12                          3_D       
+13                          2_C       
+----------------------------------------------------------------------------
+Action - Moved two of Hearts from column 1 to the foundation.
+XXX  Q_S  1_H       |2_H|A_D|A_S|A_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  5_C       XXX  XXX  XXX  
+2      J_S            XXX  XXX  XXX  
+3      1_D            8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9      4_H                 6_S       
+10      3_S                 5_H       
+11                          4_C       
+12                          3_D       
+13                          2_C       
+----------------------------------------------------------------------------
+Action - Moved two of Clubs from column 5 to the foundation.
+XXX  Q_S  1_H       |2_H|A_D|A_S|2_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  5_C       XXX  XXX  XXX  
+2      J_S            XXX  XXX  XXX  
+3      1_D            8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9      4_H                 6_S       
+10      3_S                 5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved two of Spades from the pile to column 5
+XXX  Q_S  1_H       |2_H|A_D|A_S|2_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  5_C       XXX  XXX  XXX  
+2      J_S            XXX  XXX  XXX  
+3      1_D            8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9      4_H                 6_S       
+10      3_S                 5_H       
+11                          4_C       
+12                          3_D       
+13                          2_S       
+----------------------------------------------------------------------------
+Action - Moved two of Spades from column 5 to the foundation.
+XXX  Q_S  1_H       |2_H|A_D|2_S|2_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  5_C       XXX  XXX  XXX  
+2      J_S            XXX  XXX  XXX  
+3      1_D            8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9      4_H                 6_S       
+10      3_S                 5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved three of Spades from column 1 to the foundation.
+XXX  Q_S            |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0      XXX  XXX       XXX  XXX  XXX  
+1      Q_D  5_C       XXX  XXX  XXX  
+2      J_S            XXX  XXX  XXX  
+3      1_D            8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9      4_H                 6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved King of Clubs from the pile to column 0
+XXX  1_H  J_H  Q_C  |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C  XXX  XXX       XXX  XXX  XXX  
+1      Q_D  5_C       XXX  XXX  XXX  
+2      J_S            XXX  XXX  XXX  
+3      1_D            8_H  XXX  XXX  
+4      9_S            7_C  XXX  XXX  
+5      8_D                 1_C  XXX  
+6      7_S                 9_H  8_C  
+7      6_H                 8_S       
+8      5_S                 7_D       
+9      4_H                 6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the Queen of Diamonds from column 1 to 0
+XXX  J_H  Q_C  K_S  |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C  6_D  XXX       XXX  XXX  XXX  
+1 Q_D       5_C       XXX  XXX  XXX  
+2 J_S                 XXX  XXX  XXX  
+3 1_D                 8_H  XXX  XXX  
+4 9_S                 7_C  XXX  XXX  
+5 8_D                      1_C  XXX  
+6 7_S                      9_H  8_C  
+7 6_H                      8_S       
+8 5_S                      7_D       
+9 4_H                      6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the six of Diamonds from column 1 to 4
+XXX  J_H  Q_C  K_S  |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C       XXX       XXX  XXX  XXX  
+1 Q_D       5_C       XXX  XXX  XXX  
+2 J_S                 XXX  XXX  XXX  
+3 1_D                 8_H  XXX  XXX  
+4 9_S                 7_C  XXX  XXX  
+5 8_D                 6_D  1_C  XXX  
+6 7_S                      9_H  8_C  
+7 6_H                      8_S       
+8 5_S                      7_D       
+9 4_H                      6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the five of Clubs from column 2 to 4
+XXX  J_H  Q_C  K_S  |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C       K_D       XXX  XXX  XXX  
+1 Q_D                 XXX  XXX  XXX  
+2 J_S                 XXX  XXX  XXX  
+3 1_D                 8_H  XXX  XXX  
+4 9_S                 7_C  XXX  XXX  
+5 8_D                 6_D  1_C  XXX  
+6 7_S                 5_C  9_H  8_C  
+7 6_H                      8_S       
+8 5_S                      7_D       
+9 4_H                      6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved Queen of Spades from the pile to column 2
+XXX                 |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C       K_D       XXX  XXX  XXX  
+1 Q_D       Q_S       XXX  XXX  XXX  
+2 J_S                 XXX  XXX  XXX  
+3 1_D                 8_H  XXX  XXX  
+4 9_S                 7_C  XXX  XXX  
+5 8_D                 6_D  1_C  XXX  
+6 7_S                 5_C  9_H  8_C  
+7 6_H                      8_S       
+8 5_S                      7_D       
+9 4_H                      6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved Jack of Hearts from the pile to column 2
+XXX  1_H            |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C       K_D       XXX  XXX  XXX  
+1 Q_D       Q_S       XXX  XXX  XXX  
+2 J_S       J_H       XXX  XXX  XXX  
+3 1_D                 8_H  XXX  XXX  
+4 9_S                 7_C  XXX  XXX  
+5 8_D                 6_D  1_C  XXX  
+6 7_S                 5_C  9_H  8_C  
+7 6_H                      8_S       
+8 5_S                      7_D       
+9 4_H                      6_S       
+10                          5_H       
+11                          4_C       
+12                          3_D       
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the ten of Clubs from column 5 to 2
+XXX  1_H  Q_C       |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C       K_D       XXX  XXX  XXX  
+1 Q_D       Q_S       XXX  XXX  XXX  
+2 J_S       J_H       XXX  XXX  XXX  
+3 1_D       1_C       8_H  XXX  XXX  
+4 9_S       9_H       7_C  7_H  XXX  
+5 8_D       8_S       6_D       XXX  
+6 7_S       7_D       5_C       8_C  
+7 6_H       6_S                      
+8 5_S       5_H                      
+9 4_H       4_C                      
+10           3_D                      
+----------------------------------------------------------------------------
+Action - Moved Stack starting with the seven of Hearts from column 5 to 6
+XXX  1_H  Q_C       |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C       K_D       XXX  XXX  XXX  
+1 Q_D       Q_S       XXX  XXX  XXX  
+2 J_S       J_H       XXX  XXX  XXX  
+3 1_D       1_C       8_H  K_H  XXX  
+4 9_S       9_H       7_C       XXX  
+5 8_D       8_S       6_D       XXX  
+6 7_S       7_D       5_C       8_C  
+7 6_H       6_S                 7_H  
+8 5_S       5_H                      
+9 4_H       4_C                      
+10           3_D                      
+----------------------------------------------------------------------------
+Action - Moved Stack starting with King of Hearts from column 5 to 1
+XXX  1_H  Q_C       |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C  K_H  K_D       XXX  XXX  XXX  
+1 Q_D       Q_S       XXX  XXX  XXX  
+2 J_S       J_H       XXX  J_C  XXX  
+3 1_D       1_C       8_H       XXX  
+4 9_S       9_H       7_C       XXX  
+5 8_D       8_S       6_D       XXX  
+6 7_S       7_D       5_C       8_C  
+7 6_H       6_S                 7_H  
+8 5_S       5_H                      
+9 4_H       4_C                      
+10           3_D                      
+----------------------------------------------------------------------------
+Action - Moved Queen of Clubs from the pile to column 1
+XXX  1_H            |2_H|A_D|3_S|2_C|
+
+   0    1    2    3    4    5    6
+0 K_C  K_H  K_D       XXX  XXX  XXX  
+1 Q_D  Q_C  Q_S       XXX  XXX  XXX  
+2 J_S       J_H       XXX  J_C  XXX  
+3 1_D       1_C       8_H       XXX  
+4 9_S       9_H       7_C       XXX  
+5 8_D       8_S       6_D       XXX  
+6 7_S       7_D       5_C       8_C  
+7 6_H       6_S                 7_H  
+8 5_S       5_H                      
+9 4_H       4_C                      
+10           3_D                      
+----------------------------------------------------------------------------
+Игра окончена
+Игра окончена
